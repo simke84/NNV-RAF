@@ -1,0 +1,208 @@
+﻿
+@using PagedList;  @*novi vju sa pagging, sort,search*@
+
+@using PagedList.Mvc;
+
+@model IPagedList<NNV.Models.Clanovi>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Lejaut3.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+
+
+
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+
+</head>
+
+<body>
+
+
+    @using (Html.BeginForm("Index", "CLANOVI", FormMethod.Get))
+    {
+
+        <b>Изаберите: </b>@Html.RadioButton("option", "Datum") <text>Име и презиме</text> @Html.RadioButton("option", "Ucionica") <text> Е-маил </text>
+        @Html.RadioButton("option", "Zapisnik")<text>Корисничко име</text> @Html.TextBox("search")
+        <input type="submit" name="submit" value="ПРЕТРАГА" /><br /><br /> <button type="button" onclick="location.href='@Url.Action("Index","CLANOVI")'">ПРИКАЖИ СВЕ</button><br /> @*@<button type="button" onclick="location.href='@Url.Action("Indexx","CLANOVI")'">АКТИВНИ ЧЛАНОВИ</button>*@
+
+
+    }
+    <br /><br />
+    <table class="table"
+           border="1">
+        <tr>
+            <th>
+                @Html.ActionLink("Име и презиме < >", "Index", new
+           {
+               sort = ViewBag.SortByName,
+               option = Request.QueryString["option"],
+               search = Request.QueryString["search"]
+           })
+            </th>
+            <th>
+                @Html.ActionLink("Е-маил < >", "Index", new { sort = ViewBag.SortByGender, option = Request.QueryString["option"], search = Request.QueryString["search"] })
+            </th>
+            <th> @Html.DisplayNameFor(model => model.First().Status) </th>
+            <th> @Html.DisplayNameFor(model => model.First().Korisnicko_ime) </th>
+            
+
+
+
+        </tr>
+
+
+        @if (Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="2"> Records not found </td>
+            </tr>
+        }
+        else
+        {
+             
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td><div class="col-md-2 ">  @Html.DisplayFor(modelItem => item.Ime_i_prezime) </div></td>
+                    <td>
+                        <div class="col-md-2 ">  @Html.DisplayFor(modelItem => item.Email) </div>
+                    </td>
+                    <td> <div class="col-md-2 "> @Html.DisplayFor(modelItem => item.Status) </div></td>
+                    <td>
+                        <div class="col-md-2">@Html.DisplayFor(modelItem => item.Korisnicko_ime)</div>
+                    </td>
+                    
+                 </tr>
+            }
+        }
+    </table>
+
+
+
+    <div style="margin-bottom:28px">
+        @Html.PagedListPager(Model, pageNumber => Url.Action("Index", new
+{
+  pageNumber,
+  option = Request.QueryString["option"],
+  search = Request.QueryString["search"],
+  sort = Request.QueryString["sort"]
+}))
+    </div>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*stari vju pre pagging sorta i searcha i radio buttona*@
+
+@*@model IEnumerable<NNV.Models.Clanovi>
+
+    @{
+
+
+
+
+                    ViewBag.Title = "Index";
+                    Layout = "~/Views/Shared/Lejaut3.cshtml";
+    }
+
+    <!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+    </head>
+    <body>*@
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>*@
+@*<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Ime_i_prezime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Korisnicko_ime)
+        </th>*@
+@*<th>
+        @Html.DisplayNameFor(model => model.Lozinka)- preporuka da se obrise da se ne bi videla sifra
+    </th>*@
+@*<th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ime_i_prezime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Korisnicko_ime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Lozinka)
+        </td>*@
+@*<td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.ID_Clana }) |
+        @Html.ActionLink("Details", "Details", new { id = item.ID_Clana }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.ID_Clana })
+    </td>*@
+@*</tr>
+    }
+
+        </table>
+    </body>
+    </html>*@

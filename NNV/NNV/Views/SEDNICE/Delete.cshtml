@@ -1,0 +1,72 @@
+﻿@model NNV.Models.Sednice
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <h3> Да ли сте сигурни да желите да обришете? </h3>
+    <div>
+        <h4>СЕДНИЦЕ</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Datum)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Datum)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Vrsta_redovna)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Vrsta_redovna)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Ucionica)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Ucionica)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Zapisnik)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Zapisnik)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Poziv)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Poziv)
+            </dd>
+    
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="Обриши" class="btn btn-default" /> |
+                @Html.ActionLink("Назад на листу", "Indexx")
+            </div>
+        }
+    </div>
+</body>
+</html>

@@ -1,0 +1,687 @@
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\ApplicationInsights.config
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\NNV.dll.config
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\NNV.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\NNV.pdb
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\csc.exe
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\csc.exe.config
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\csc.rsp
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\csi.exe
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\csi.exe.config
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\csi.rsp
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.AppContext.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Console.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Security.Claims.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\vbc.exe
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\vbc.exe.config
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\vbc.rsp
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Antlr3.Runtime.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AI.Web.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Newtonsoft.Json.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.Helpers.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.Mvc.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.Optimization.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.Razor.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.WebPages.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\WebGrease.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.Helpers.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.Mvc.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.Optimization.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.Razor.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.WebPages.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Newtonsoft.Json.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Antlr3.Runtime.pdb
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.AI.Web.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\obj\Debug\NNV.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\obj\Debug\NNV.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\obj\Debug\NNV.csproj.CopyComplete
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\obj\Debug\NNV.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\obj\Debug\NNV.pdb
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\EntityFramework.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\EntityFramework.SqlServer.dll
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\EntityFramework.xml
+C:\Users\Milan\Desktop\Praksa\NNV\NNV\bin\EntityFramework.SqlServer.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\ApplicationInsights.config
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\NNV.dll.config
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\NNV.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\NNV.pdb
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\csc.exe
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\csc.exe.config
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\csc.rsp
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\csi.exe
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\csi.exe.config
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\csi.rsp
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.AppContext.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Console.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Claims.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\vbc.exe
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\vbc.exe.config
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\vbc.rsp
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Antlr3.Runtime.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\EntityFramework.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\EntityFramework.SqlServer.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AI.Web.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Newtonsoft.Json.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.Helpers.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.Mvc.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.Optimization.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.Razor.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\WebGrease.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\EntityFramework.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\EntityFramework.SqlServer.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.Helpers.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.Mvc.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.Optimization.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.Razor.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Newtonsoft.Json.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Antlr3.Runtime.pdb
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.AI.Web.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\obj\Debug\NNV.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\obj\Debug\NNV.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\obj\Debug\NNV.csproj.CopyComplete
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\obj\Debug\NNV.dll
+C:\Users\Milan\Desktop\FInalnaApp\NNV\NNV\obj\Debug\NNV.pdb
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\ApplicationInsights.config
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\NNV.dll.config
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\NNV.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\NNV.pdb
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csc.exe
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csc.exe.config
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csc.rsp
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csi.exe
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csi.exe.config
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csi.rsp
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.AppContext.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Console.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Claims.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\vbc.exe
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\vbc.exe.config
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\vbc.rsp
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Antlr3.Runtime.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\EntityFramework.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\EntityFramework.SqlServer.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.Web.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Newtonsoft.Json.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Helpers.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Mvc.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Optimization.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Razor.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\WebGrease.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\EntityFramework.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\EntityFramework.SqlServer.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Helpers.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Mvc.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Optimization.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Razor.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Newtonsoft.Json.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Antlr3.Runtime.pdb
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.Web.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.csprojAssemblyReference.cache
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.csproj.CopyComplete
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.dll
+C:\Users\Deki\Desktop\New folder\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.pdb
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\ApplicationInsights.config
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\NNV.dll.config
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\NNV.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\NNV.pdb
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csc.exe
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csc.exe.config
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csc.rsp
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csi.exe
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csi.exe.config
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\csi.rsp
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.AppContext.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Collections.Immutable.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Console.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Diagnostics.Process.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.Compression.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.FileSystem.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.IO.Pipes.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Reflection.Metadata.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.AccessControl.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Claims.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Security.Principal.Windows.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Threading.Thread.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.ValueTuple.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.XPath.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\vbc.exe
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\vbc.exe.config
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\vbc.rsp
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\VBCSCompiler.exe
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\roslyn\VBCSCompiler.exe.config
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Antlr3.Runtime.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\EntityFramework.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\EntityFramework.SqlServer.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.Agent.Intercept.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.DependencyCollector.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.Web.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.WindowsServer.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.ApplicationInsights.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.Web.Infrastructure.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Newtonsoft.Json.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Helpers.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Mvc.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Optimization.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Razor.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Deployment.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Razor.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\WebGrease.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\EntityFramework.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\EntityFramework.SqlServer.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Helpers.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Mvc.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Optimization.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.Razor.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Deployment.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Web.WebPages.Razor.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Newtonsoft.Json.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Antlr3.Runtime.pdb
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.DependencyCollector.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.WindowsServer.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.AI.Web.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.csprojAssemblyReference.cache
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.csproj.CoreCompileInputs.cache
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.csproj.CopyComplete
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.dll
+D:\RAF\14.09.2018\FirstApp\FInalnaApp\NNV\NNV\obj\Debug\NNV.pdb
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\ApplicationInsights.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\NNV.dll.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\NNV.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\NNV.pdb
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\csc.exe
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\csc.exe.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\csc.rsp
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\csi.exe
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\csi.exe.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\csi.rsp
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.AppContext.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Console.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Security.Claims.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\vbc.exe
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\vbc.exe.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\vbc.rsp
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Antlr3.Runtime.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\EntityFramework.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\EntityFramework.SqlServer.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AI.Web.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Newtonsoft.Json.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.Helpers.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.Mvc.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.Optimization.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.Razor.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.WebPages.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\WebGrease.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\EntityFramework.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\EntityFramework.SqlServer.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.Helpers.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.Mvc.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.Optimization.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.Razor.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.WebPages.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Newtonsoft.Json.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Antlr3.Runtime.pdb
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.AI.Web.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\obj\Debug\NNV.csprojAssemblyReference.cache
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\obj\Debug\NNV.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\obj\Debug\NNV.csproj.CopyComplete
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\obj\Debug\NNV.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC\NNV\NNV\obj\Debug\NNV.pdb
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\ApplicationInsights.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\NNV.dll.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\NNV.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\NNV.pdb
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\csc.exe
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\csc.exe.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\csc.rsp
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\csi.exe
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\csi.exe.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\csi.rsp
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.AppContext.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Console.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Security.Claims.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\vbc.exe
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\vbc.exe.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\vbc.rsp
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Antlr3.Runtime.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\EntityFramework.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\EntityFramework.SqlServer.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AI.Web.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Newtonsoft.Json.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.Helpers.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.Mvc.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.Optimization.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.Razor.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.WebPages.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\WebGrease.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\EntityFramework.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\EntityFramework.SqlServer.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.Helpers.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.Mvc.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.Optimization.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.Razor.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.WebPages.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Newtonsoft.Json.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Antlr3.Runtime.pdb
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.AI.Web.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\obj\Debug\NNV.csprojAssemblyReference.cache
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\obj\Debug\NNV.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\obj\Debug\NNV.csproj.CopyComplete
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\obj\Debug\NNV.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\obj\Debug\NNV.pdb
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\PagedList.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\PagedList.Mvc.dll
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\PagedList.xml
+C:\Users\Deki\Desktop\Repozitor 1\RAF-MVC-FiNALE\NNV\NNV\bin\PagedList.Mvc.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\ApplicationInsights.config
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\NNV.dll.config
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\NNV.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\NNV.pdb
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\csc.exe
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\csc.exe.config
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\csc.rsp
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\csi.exe
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\csi.exe.config
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\csi.rsp
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.AppContext.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Console.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Security.Claims.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\vbc.exe
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\vbc.exe.config
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\vbc.rsp
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Antlr3.Runtime.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\EntityFramework.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\EntityFramework.SqlServer.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AI.Web.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Newtonsoft.Json.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\PagedList.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\PagedList.Mvc.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.Helpers.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.Mvc.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.Optimization.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.Razor.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.WebPages.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.WebPages.Razor.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\WebGrease.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\EntityFramework.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\EntityFramework.SqlServer.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\PagedList.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\PagedList.Mvc.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.Helpers.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.Mvc.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.Optimization.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.Razor.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.WebPages.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Web.WebPages.Razor.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Newtonsoft.Json.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Antlr3.Runtime.pdb
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.AI.Web.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\obj\Debug\NNV.csprojAssemblyReference.cache
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\obj\Debug\NNV.csproj.CoreCompileInputs.cache
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\obj\Debug\NNV.csproj.CopyComplete
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\obj\Debug\NNV.dll
+C:\Users\Deki\Desktop\RAF-NNV\NNV\NNV\obj\Debug\NNV.pdb

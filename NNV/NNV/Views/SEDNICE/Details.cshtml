@@ -1,0 +1,66 @@
+﻿@model NNV.Models.Sednice
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>СЕДНИЦЕ</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Datum)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Datum)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Vrsta_redovna)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Vrsta_redovna)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Ucionica)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Ucionica)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Zapisnik)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Zapisnik)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Poziv)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Poziv)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Промени", "Edit", new { id = Model.ID_Sednice }) |
+        @Html.ActionLink("Назад на листу", "Indexx")
+    </p>
+</body>
+</html>

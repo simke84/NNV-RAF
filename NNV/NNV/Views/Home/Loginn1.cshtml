@@ -1,0 +1,203 @@
+﻿
+@model NNV.Models.Clanovi
+
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <title>ПРВА</title>
+
+    <style>
+        .form-group {
+            width: 200px;
+            position: center;
+        }
+
+
+        body {
+            background-image: url('/SLIKE/KnjigeFokus (1).jpg');
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 100%;
+            height: auto;
+            background-size: cover;
+            background-size: contain;
+        }
+
+
+
+
+        #gkCopyrights {
+            position: fixed;
+            left: 0;
+            bottom: 15px;
+            margin-bottom: 0px;
+            width: 100%;
+            height: auto;
+            background-color: lightgray;
+            color: black;
+            text-align: center;
+        }
+
+        background {
+            opacity: 0.7;
+        }
+
+
+        .gkPage {
+            max-width: 1200px;
+        }
+
+
+        .gkPage {
+            max-width: 1200px;
+        }
+
+        .login {
+            padding: 15px;
+            width: 400px;
+            min-height: 400px;
+            margin: 2% auto 0 auto;
+        }
+
+
+        body {
+            background: transparent;
+        }
+
+        body, input, button {
+            font-family: 'Source Sans Pro', sans-serif;
+        }
+
+
+        h2 {
+            font-size: 3em;
+            font-weight: 300;
+            color: rgba(255, 255, 255, 0.7);
+            display: inline-block;
+            padding-bottom: 5px;
+            text-shadow: 1px 1px 3px;
+        }
+
+
+
+        .input-group {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+    </style>
+
+
+
+
+
+
+</head>
+
+
+<body style="background-image:url('/SLIKE/KnjigeFokus (1).jpg');background-size:100%;background-size:cover;">
+
+
+
+    <h2>
+        ПРИЈАВИ СЕ
+    </h2>
+    @using (Html.BeginForm())
+    {
+
+        @Html.ValidationSummary(true)
+
+
+        <div style="border: solid 1px #ccc; padding: 30px 0 30px 30px; border-radius: 5px;
+        width: 325px; margin: auto; display: table;">
+            <table>
+                <tr>
+                    <td valign="top"></td>
+                    <td>
+                        <script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+                        <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+                        <div style="color:azure;">@Html.LabelFor(model => model.Korisnicko_ime) </div>
+
+                        @Html.EditorFor(model => model.Korisnicko_ime)
+
+                        <div style="height: 20px;color:white;font-size:inherit;font-weight:100;font-family:'Times New Roman', Times, serif">
+                            @Html.ValidationMessageFor(model => model.Korisnicko_ime)
+                        </div>
+                    </td>
+                </tr>
+                <tr><td><br /><br /></td></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td valign="top">
+                        <script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+                        <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+                    </td>
+                    <td>
+                        <div style="color:azure;">@Html.LabelFor(model => model.Lozinka)</div>
+
+                        @Html.EditorFor(model => model.Lozinka)
+                        <div style="height: 20px;color:white;font-size:inherit;font-family:'Times New Roman', Times, serif">
+                            @Html.ValidationMessageFor(model => model.Lozinka)
+                        </div>
+                    </td>
+                </tr>
+                <tr><td><br /><br /><br /></td>
+                <tr>
+                    <td><br /><br /><br /></td>
+                    <td></td>
+                    <td>
+                        <input style="align-content:center;position:center;margin-bottom:5px;" type="submit" value="ПРИЈАВА" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+    }
+
+
+
+
+
+
+
+
+    <footer id="gkFooter" style="position: fixed;height:50px;align-content:center;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: lightgray;
+            color: white;
+            text-align: center;
+            ">
+        <div class="gkPage">
+            <div id="gkFooterArea">
+
+
+
+            </div>
+
+
+            <p id="gkCopyrights">
+                &copy; 2003-2018 Рачунарски факултет - Београд
+                &nbsp;&nbsp;&nbsp;
+                <a href="https://www.facebook.com/rafakultet/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+            </p>
+
+
+        </div>
+    </footer>
+</body>
+
+</html>

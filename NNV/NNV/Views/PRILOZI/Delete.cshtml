@@ -1,0 +1,72 @@
+﻿@model NNV.Models.Prilozi
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <h3> Да ли сте сигурни да желите да обришете? </h3>
+    <div>
+        <h4>ПРИЛОЗИ</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Dokumentacijas.Naziv_Dokumenta)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Dokumentacijas.Naziv_Dokumenta)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.ID_Sednice)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.ID_Sednice)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Putanja)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Putanja)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Poslato)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Poslato)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Datum_slanja)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Datum_slanja)
+            </dd>
+    
+        </dl>
+    
+        @using (Html.BeginForm()) {
+            @Html.AntiForgeryToken()
+    
+            <div class="form-actions no-color">
+                <input type="submit" value="ОБРИШИ" class="btn btn-default" /> |
+                @Html.ActionLink("Назад на страну", "Indexx")
+            </div>
+        }
+    </div>
+</body>
+</html>

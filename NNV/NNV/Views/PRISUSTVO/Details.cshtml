@@ -1,0 +1,58 @@
+﻿@model NNV.Models.Prisustvo
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>ПРИСУСТВО</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Clanovi.Ime_i_prezime)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Clanovi.Ime_i_prezime)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Sednice.Ucionica)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Sednice.Ucionica)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Prisutan)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Prisutan)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Opravdano)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Opravdano)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Промени", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        @Html.ActionLink("Назад на страну", "Indexx")
+    </p>
+</body>
+</html>

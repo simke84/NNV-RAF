@@ -1,0 +1,246 @@
+﻿
+
+
+
+@{
+    /**/
+
+    Layout = null;
+}
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>ННВ</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <style>
+
+        .header {
+            padding: 10px 16px;
+            background: white;
+            color: white;
+            height: 90px;
+            width: 100%;
+        }
+
+
+        .content {
+            padding: 16px;
+        }
+
+        .sticky {
+            position: fixed;
+            top: 0;
+            width: 100%;
+        }
+
+            .sticky + .content {
+                padding-top: 102px;
+            }
+
+        .clear {
+            margin-right: 10px
+        }
+
+        .lejaut {
+            margin-left: 210px;
+        }
+
+        .levo {
+            margin-bottom: 400px;
+        }
+
+        .sidebar {
+            height: 90%;
+            width: 40px;
+            position: fixed !important;
+            z-index: 3;
+            top: 0;
+            left: 0;
+            background-color: lightgray;
+            overflow-x: hidden;
+            padding-top: 20px;
+            margin-top: 100px;
+            opacity: 0.5;
+            min-width: 200px;
+        }
+
+            .sidebar a {
+                padding: 6px 8px 6px 16px;
+                text-decoration: none;
+                font-size: 14px;
+                color: #1e90ff;
+                display: block;
+            }
+
+                .sidebar a:hover {
+                    color: #e62e00;
+                }
+
+
+
+        .futer {
+            position: fixed;
+            right: 0;
+            left: 0;
+            padding: 1rem;
+            bottom: 0;
+            width: 100%;
+            background-color: lightgray;
+            text-align: center;
+            color: black;
+            z-index: 1;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+        /* Style the footer */
+        footer {
+            background-color: #777;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+
+        .pill-nav {
+            width: 200px;
+        }
+
+            .pill-nav a {
+                display: block;
+                color: black;
+                padding: 14px;
+                text-decoration: none;
+                font-size: 14px;
+                border-radius: 5px;
+            }
+
+                .pill-nav a:hover {
+                    background-color: #ddd;
+                    color: black;
+                    width: auto;
+                }
+
+                .pill-nav a.active {
+                    background-color: dodgerblue;
+                    color: white;
+                }
+    </style>
+</head>
+<body>
+    <div class="header" id="myHeader" style="margin-top:0px;padding:10px; ">
+        <nav style="margin-left:1100px;margin-bottom:2px;padding:inherit;height:10px;">
+
+            <ul>
+                <li><label style="color:darkblue">Корисник:@Session["Korisnicko_ime"].ToString()</label></li>
+                <li><div>@Html.ActionLink("ОДЈАВА", "Prva", "LOGIN")</div></li>
+
+                <ul>
+        </nav><a href="~/SLIKE/logo_cir (1).png">
+            <img src="~/SLIKE/logo_cir (1).png" width="400" ;height="180;">
+        </a>
+
+
+
+
+    </div>
+
+    <div class="content">
+
+
+
+
+        <div class="sidebar" style="width:15%" ; margin-left:25%;>
+            <h3 class="w3-bar-item"></h3>
+            <br\>
+                <br\>
+                    <br\>
+
+                        <ul>
+                            <li>
+                                <div class="w3-bar-item w3-button">@Html.ActionLink("СЕДНИЦЕ", "Index", "SEDNICE")</div>
+                            </li>
+                            <br\>
+                                <br\>
+
+                                    <li>
+                                        <a href="#" class="w3-bar-item w3-button"><div>@Html.ActionLink("ЧЛАНОВИ" ,"Index" ,"CLANOVI")</div></a>
+                                    </li><br\>
+                                        <br\>
+                                            <li>
+                                                <a href="#" class="w3-bar-item w3-button"><div>@Html.ActionLink("ПРИЛОЗИ", "Index", "PRILOZI")</div></a>
+                                            </li><br\>
+                                                @*<br\>
+                                                    <li>
+                                                        <a href="#" class="w3-bar-item w3-button">АДМИН</a>
+                                                    </li><br\>
+                                                        <br\>
+                                                            <li>
+                                                                <a href="#" class="w3-bar-item w3-button">РЕГИСТРАЦИЈА</a>
+                                                            </li>*@
+
+
+
+
+
+                        </ul>
+
+        </div>
+        <div class="lejaut"> @RenderBody() </div>
+
+    </div>
+
+    <footer class="futer">
+        <p> &copy; 2003-2018 Рачунарски факултет - Београд</p>
+    </footer>
+
+
+    <script>
+        window.onscroll = function () { myFunction() };
+
+        var header = document.getElementById("myHeader");
+        var sticky = header.offsetTop;
+
+        function myFunction() {
+            if (window.pageYOffset > sticky) {
+                header.classList.add("sticky");
+            } else {
+                header.classList.remove("sticky");
+            }
+        }
+    </script>
+</body>
+</html>
+
+
+
+
+
+

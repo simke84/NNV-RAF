@@ -1,0 +1,237 @@
+﻿
+@using PagedList;  @*novi vju sa pagging, sort,search*@
+
+@using PagedList.Mvc;
+
+@model IPagedList<NNV.Models.Sednice>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Lejaut3.cshtml";
+}
+
+<!DOCTYPE html>
+
+<html>
+
+
+
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+
+
+</head>
+
+<body>
+
+
+    @using (Html.BeginForm("Index", "SEDNICE", FormMethod.Get))
+    {
+
+        <b>Изаберите: </b>@Html.RadioButton("option", "Datum") <text>Датум</text> @Html.RadioButton("option", "Ucionica") <text> Учионица </text>
+        @Html.RadioButton("option", "Zapisnik")<text>Записник</text> @Html.TextBox("search")
+        <input type="submit" name="submit" value="ПРЕТРАГА" /><br /><br /> <button type="button" onclick="location.href='@Url.Action("Index","SEDNICE")'">ПРИКАЖИ СВЕ</button>
+
+
+    }
+    <br /><br />
+    <table class="table"
+           border="1">
+        <tr>
+            <th>
+                @Html.ActionLink("Датум < >", "Index", new
+           {
+               sort = ViewBag.SortByName,
+               option = Request.QueryString["option"],
+               search = Request.QueryString["search"]
+           })
+            </th>
+            <th>
+                @Html.ActionLink("Учионица < >", "Index", new { sort = ViewBag.SortByGender, option = Request.QueryString["option"], search = Request.QueryString["search"] })
+            </th>
+            <th> @Html.DisplayNameFor(model => model.First().Zapisnik) </th>
+            <th> @Html.DisplayNameFor(model => model.First().ID_Sednice) </th>
+            <th> @Html.DisplayNameFor(model => model.First().Vrsta_redovna) </th>
+            <th> @Html.DisplayNameFor(model => model.First().Poziv) </th>
+
+
+
+        </tr>
+
+
+        @if (Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="3"> Records not found </td>
+            </tr>
+        }
+        else
+        {
+
+            foreach (var item in Model)
+            {
+            <tr>
+                <td><div class="col-md-2 ">  @Html.DisplayFor(modelItem => item.Datum) </div></td>
+                <td>
+                    <div class="col-md-2 ">  @Html.DisplayFor(modelItem => item.Ucionica) </div>
+                </td>
+                <td> <div class="col-md-2 "> @Html.DisplayFor(modelItem => item.Zapisnik) </div></td>
+                <td>
+                    <div class="col-md-2">@Html.DisplayFor(modelItem => item.ID_Sednice)</div>
+                </td>
+                <td>
+                    <div class="col-md-2 ">   @Html.DisplayFor(modelItem => item.Vrsta_redovna)</div>
+                </td>
+                <td>
+                <div class="col-md-2 "> @Html.DisplayFor(modelItem => item.Poziv)    </div>
+                </td>
+
+            </tr>
+            }
+        }
+    </table>
+
+
+
+    <div style="margin-bottom:28px">
+        @Html.PagedListPager(Model, pageNumber => Url.Action("Index", new
+{
+  pageNumber,
+  option = Request.QueryString["option"],
+  search = Request.QueryString["search"],
+  sort = Request.QueryString["sort"]
+}))
+    </div> 
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*@using PagedList;-stari vju pez pagging-a
+
+    @using PagedList.Mvc;
+
+    @model IPagedList<NNV.Models.Sednice>
+    @{
+
+
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/Lejaut1.cshtml";
+    }
+    <!DOCTYPE html>
+
+    <html>
+    <head>
+
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+    </head>
+
+    <body>
+
+
+
+
+
+        @*<p>
+                @Html.ActionLink("Create New", "Create")- pozeljno je obrisati zato sto obicnom korisniku nije dozvoljena promena podataka
+            </p>*@
+
+@*<table class="table">
+    <tr>
+        <th>
+            <div class="col-md-2">@Html.DisplayNameFor(model => model.ID_Sednice)</div>
+        </th>
+        <th>
+            <div class="col-md-2">@Html.DisplayNameFor(model => model.Datum)</div>
+        </th>
+        <th>
+            <div class="col-md-2">@Html.DisplayNameFor(model => model.Vrsta_redovna)</div>
+        </th>
+        <th>
+            <div class="col-md-2">@Html.DisplayNameFor(model => model.Ucionica)</div>
+        </th>
+        <th>
+            <div class="col-md-2">@Html.DisplayNameFor(model => model.Zapisnik)</div>
+        </th>
+        <th>
+            <div class="col-md-2">@Html.DisplayNameFor(model => model.Poziv)</div>
+        </th>*@
+@*<th>
+        @Html.DisplayNameFor(model => model.Poziv)
+    </th>
+    <th></th>*@
+@*</tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <div class="col-md-2">@Html.DisplayFor(modelItem => item.ID_Sednice)</div>
+            </td>
+            <td>
+                <div class="col-md-2 ">  @Html.DisplayFor(modelItem => item.Datum)     </div>
+            </td>
+            <td>
+                <div class="col-md-2 ">   @Html.DisplayFor(modelItem => item.Vrsta_redovna)         </div>
+            </td>
+            <td>
+                <div class="col-md-2 ">  @Html.DisplayFor(modelItem => item.Ucionica)       </div>
+            </td>
+            <td>
+                <div class="col-md-2 "> @Html.DisplayFor(modelItem => item.Zapisnik)  </div>
+            </td>
+            <td>
+                <div class="col-md-2 "> @Html.DisplayFor(modelItem => item.Poziv)    </div>
+            </td>*@
+@*<td>-pozeljno je obrisati zato sto obicnom korisniku nije dozvoljena promena podataka
+        @Html.ActionLink("Edit", "Edit", new { id = item.ID_Sednice }) |
+        @Html.ActionLink("Details", "Details", new { id = item.ID_Sednice }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.ID_Sednice })
+    </td>*@
+@*</tr>
+            }
+
+        </table>
+    </body>
+    </html>*@
